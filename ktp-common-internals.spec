@@ -4,7 +4,7 @@
 
 Name:		telepathy-kde-common-internals
 Version:	%{version_lib}.1
-Release:	2
+Release:	3
 Summary:	KDE Telepathy Parts
 Group:		System/Libraries
 License:	LGPLv2
