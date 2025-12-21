@@ -10,6 +10,7 @@ Group:		System/Libraries
 License:	LGPLv2
 URL:		https://projects.kde.org/projects/extragear/network/telepathy/ktp-common-internals
 Source0:	ftp://ftp.gtlib.cc.gatech.edu/pub/kde/unstable/kde-telepathy/%version/src/%srcname-%version.tar.bz2
+BuildRequires:	make
 BuildRequires:	pkgconfig(TelepathyQt4) >= 0.9.2.1
 BuildRequires:	kdelibs4-devel
 
